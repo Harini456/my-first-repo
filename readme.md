@@ -1,23 +1,19 @@
-And as **imagination** bodies forth,
-The forms of things *unknown*, the poet’s pen,
-Turns them to shapes and gives to airy nothing,
-A local *habitation* and a **name**.
+# Harini
 
-- This is
-- an unordered
-- list
+### Geography
 
-1. This is
-2. an ordered
-3. list
+I live in the city of Nellore, in the state of Andhra Pradesh, in the India.
 
-Here is `some code` in the middle of a sentence.
+### Reading
 
-```
-This is
-a block
-of code
-```
+Two of my favorite books are:
 
-Here is how you make [a link](https://www.wikipedia.org/).
+- *two states
+- *faith in God
+### Food
 
+Last night I dreamt about eating in these restaurants:
+
+1. Linger in Denver.
+2. Azura in Jerusalem.
+3. Gemma in New York City.
